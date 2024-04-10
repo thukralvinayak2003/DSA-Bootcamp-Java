@@ -20,10 +20,10 @@
 15. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) X
 16. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) 
 17. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) X
-18. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
+18. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)X
 19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) X
-20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
-21. [Two Sum](https://leetcode.com/problems/two-sum/)
+20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)X
+21. [Two Sum](https://leetcode.com/problems/two-sum/) Can be better
 22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
