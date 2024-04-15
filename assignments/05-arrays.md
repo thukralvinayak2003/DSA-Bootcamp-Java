@@ -26,14 +26,14 @@
 21. [Two Sum](https://leetcode.com/problems/two-sum/) Can be better
 22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
-24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
-26. [Plus One](https://leetcode.com/problems/plus-one/)
-27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
+24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) X
+25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)X
+26. [Plus One](https://leetcode.com/problems/plus-one/) X
+27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) X
+28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)  X
 
 ### Medium
-1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)X
 2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
 4. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
